@@ -2,7 +2,7 @@
   display: inline-block;
   position: relative;
   text-align: left;
-  font-family: 'Poppins';
+  font-family: 'Noto Sans Old Persian';
   font-size: 48px;
 }
 
@@ -16,7 +16,7 @@
 
 .blc {
   font-size: 40px;
-  font-family: 'Poppins';
+  font-family: 'Bitter';
 }
 
 .cd-words-wrapper b.is-visible {
