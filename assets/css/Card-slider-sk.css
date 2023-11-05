@@ -18,7 +18,7 @@
 
 .card-header {
   color: #000000;
-  font-family: 'Noto Sans Old Persian';
+  font-family: 'Lora';
   text-align: center;
   font-size: 23px;
 }
@@ -28,10 +28,14 @@ div {
 
 .card-text {
   color: var(--gray-dark);
-  font-family: 'Bitter';
+  font-family: 'Lora';
   font-size: 17px;
-  text-align: center;
+  text-align: justify;
   text-decoration: bol;
   padding-bottom: 30px;
+}
+
+.img-fluid {
+  height: 250px;
 }
 
