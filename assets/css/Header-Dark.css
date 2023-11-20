@@ -2,7 +2,7 @@
   background: url(../../assets/img/hero1.jpg) #444;
   background-size: cover;
   padding-bottom: 80px;
-  background-position: center;
+  background-position: right;
 }
 
 @media (min-width:768px) {
