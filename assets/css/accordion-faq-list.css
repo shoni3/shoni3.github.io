@@ -9,7 +9,7 @@
 
 .accordion-button:not(.collapsed) {
   background: none;
-  color: #006738;
+  color: #ff9800;
   box-shadow: none;
   border-bottom: none;
 }
